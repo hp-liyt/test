@@ -1,3 +1,4 @@
+ahh
 # @Time : 2020/9/14 15:11
 # @Content : 对es写入操作的重写
 from elasticsearch import Elasticsearch, helpers
